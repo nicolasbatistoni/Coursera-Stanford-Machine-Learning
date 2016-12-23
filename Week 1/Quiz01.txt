@@ -1,0 +1,15 @@
+
+1. The weather prediction task.
+
+2. Classification.
+
+3. Regression.
+
+4. - Given genetic (DNA) data from a person, predict the odds of him/her 
+     developing diabetes over the next 10 years.
+   - Have a computer examine an audio clip of a piece of music, and classify 
+     whether or not there are vocals (i.e., a human voice singing) in that 
+     audio clip, or if it is a clip of only musical instruments (and no vocals).
+
+5. Machine learning is the field of study that gives computers the ability 
+   to learn without being explicitly programmed.
