@@ -1,0 +1,11 @@
+
+1. [13−19]
+
+2. ⎢1010414⎤⎦⎥⎥
+
+3. [519]
+
+4. -4
+
+5. - A+B=B+A
+   - If A is the 3x3 identity matrix, then A∗B=B∗A
