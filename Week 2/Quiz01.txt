@@ -1,0 +1,10 @@
+
+1. (94-81)/25 = 0.52.
+
+2. α=0.3 is an effective choice of learning rate.
+
+3. X is 23×6, y is 23×1, θ is 6×1.
+
+4. Gradient descent, since (XTX)−1 will be very slow to compute in the normal equation.
+
+5. - It speeds up gradient descent by making it require fewer iterations to get to a good solution.
